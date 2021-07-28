@@ -126,7 +126,7 @@ highlights:
   TSFloat: "green"
   TSAnnotation: "yellow"
   TSAttribute: "cyan"
-  TSNamespace: "#FF00FF"
+  TSNamespace: "purple"
   # Functions
   TSFuncBuiltin: "blue"
   TSFunction: "blue"
@@ -149,7 +149,7 @@ highlights:
   TSException: "purple"
   TSType: "blue"
   TSTypeBuiltin: "blue"
-  TSStructure: "#FF00FF"
+  TSStructure: "purple"
   TSInclude: "purple"
   # Variable
   TSVariable: "cyan"
