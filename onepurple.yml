@@ -212,7 +212,11 @@ highlights:
   markdownRule: "line_grey"
   markdownUrl: "cyan - u"
   # -- END Languages --
-
+ 
+  LspDiagnosticsSignError: "error_red"
+  LspDiagnosticsSignWarning: "orange"
+  LspDiagnosticsSignInformation: "yellow"
+  LspDiagnosticsSignHint: "special_grey"
   # -- START CoC --
   CocExplorerIndentLine: "line_grey"
   CocExplorerBufferRoot: "cyan"
