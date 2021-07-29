@@ -21,7 +21,7 @@ palette:
   gutter_fg_grey: "#4B5263"
   cursor_grey: "#2C323C"
   visual_grey: "#3E4452"
-  menu_grey: "#282C34"
+  menu_grey: "#1E2127"
   special_grey: "#3B4048"
   vertsplit: "#181A1F"
 
@@ -116,7 +116,7 @@ highlights:
   TSConstant: "blue"
   TSConstBuiltin: "orange"
   # Not sure about this guy
-  TSConstMacro: "cyan"
+  TSConstMacro: "white"
   TSStringRegex: "green"
   TSString: "green"
   TSStringEscape: "cyan"
@@ -125,7 +125,7 @@ highlights:
   TSBoolean: "orange"
   TSFloat: "green"
   TSAnnotation: "yellow"
-  TSAttribute: "cyan"
+  TSAttribute: "white"
   TSNamespace: "purple"
   # Functions
   TSFuncBuiltin: "blue"
@@ -136,7 +136,7 @@ highlights:
   TSMethod: "blue"
   TSField: "red"
   TSProperty: "yellow"
-  TSConstructor: "cyan"
+  TSConstructor: "white"
   # Keywords
   TSConditional: "purple"
   TSRepeat: "purple"
@@ -152,7 +152,7 @@ highlights:
   TSStructure: "purple"
   TSInclude: "purple"
   # Variable
-  TSVariable: "cyan"
+  TSVariable: "white"
   TSVariableBuiltin: "yellow"
   # Text
   TSText: "#FFFF00"
