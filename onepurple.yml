@@ -167,6 +167,8 @@ highlights:
   TSTagDelimiter: "line_grey"
   # -- END Treesitter --
 
+  NvimTreeWindowPicker: "purple black"  
+
   # -- START Languages --
   # HTML (keep consistent with Markdown, below)
   htmlArg: "yellow"

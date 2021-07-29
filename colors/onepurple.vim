@@ -133,6 +133,7 @@ hi TSLiteral guifg=#ffff00 ctermfg=226 guibg=NONE ctermbg=NONE gui=NONE cterm=NO
 hi TSURI guifg=#ffff00 ctermfg=226 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSTag guifg=#e06c75 ctermfg=168 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSTagDelimiter guifg=#5c6370 ctermfg=241 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi NvimTreeWindowPicker guifg=#a17dc7 ctermfg=140 guibg=#282c34 ctermbg=236 gui=NONE cterm=NONE
 hi htmlArg guifg=#e5c07b ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi htmlBold guifg=#e5c07b ctermfg=180 guibg=NONE ctermbg=NONE gui=bold cterm=bold
 hi htmlEndTag guifg=#abb2bf ctermfg=249 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
